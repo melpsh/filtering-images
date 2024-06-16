@@ -1,14 +1,3 @@
-// 
-// CHANNEL: https: //t.me/OpenSourcecode_pro
-
-//     CHANNEL: https: //t.me/OpenSourcecode_pro
-
-//     CHANNEL: https: //t.me/OpenSourcecode_pro
-
-//     CHANNEL: https: //t.me/OpenSourcecode_pro
-
-//     CHANNEL: https: //t.me/OpenSourcecode_pro
-
 const filterButtons = document.querySelectorAll(".filter_buttons button");
 const filterbleCards = document.querySelectorAll(".filterble_cards .card");
 
@@ -28,18 +17,3 @@ const filterCards = e => {
 };
 
 filterButtons.forEach(button => button.addEventListener("click", filterCards));
-
-
-
-
-
-// 
-// CHANNEL : https://t.me/OpenSourcecode_pro
-
-// CHANNEL : https://t.me/OpenSourcecode_pro
-
-// CHANNEL : https://t.me/OpenSourcecode_pro
-
-// CHANNEL : https://t.me/OpenSourcecode_pro
-
-// CHANNEL : https://t.me/OpenSourcecode_pro
